@@ -55,7 +55,7 @@
 1.  Clone the repository:
 
     ```sh
-    git clone https://github.com/FaizanAhmed0107/ClipFlow.git
+    git clone https://github.com/Guddukrm17/ClipFlow-master.git
     cd ClipFlow
     ```
 
