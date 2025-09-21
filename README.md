@@ -102,4 +102,4 @@ Contributions are welcome! To contribute:
 
 For queries or collaboration opportunities, feel free to reach out:
 
-- **Email**: [faizanahmed0107@gmail.com](mailto:faizanahmed0107@gmail.com)
+- **Email**: [guddukrm17@gmail.com](mailto:guddukrm17@gmail.com)
